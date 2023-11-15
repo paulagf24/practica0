@@ -1,0 +1,10 @@
+#Librerías empleadas en el trabajo 
+pandas
+numpy 
+seaborn
+matplotlib
+plotly.express
+sklearn.impute
+scipy.stats 
+scikit-learn
+category_encoders
